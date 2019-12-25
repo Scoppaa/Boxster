@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\scopp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\scopp\\.nuget\\packages"
+    ]
+  }
+}
