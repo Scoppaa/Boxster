@@ -4,13 +4,20 @@ namespace Class_Practice
 {
     class Box
     {
+        //Constructor that lets user know their box is being created
+        public Box()
+        {
+            Console.WriteLine("Forming a box now!");
+            Console.WriteLine();
+        }
+
         //Variables for length, width, and height
         private double length;
         private double width;
         private double height;
 
         //Method that changes the length of the box
-        public void SetLength(double len)
+        public void setLength(double len)
         {
             length = len;
         }
